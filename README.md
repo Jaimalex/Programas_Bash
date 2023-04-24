@@ -1,1 +1,1 @@
-# Practica_personal_Bash
+# Programas simples iniciación Bash
